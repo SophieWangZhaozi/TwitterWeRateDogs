@@ -4,7 +4,7 @@
 
 ## Dataset
 
-> The major dataset is downloaded directly from Twitter archive of "Weratedogs" account. It contains close to 2,000 tweets which give dogs in the photo a rating. Note that what is special about this Twitter account is that most of the ratings are higher than 10, the full score. Because "they are goood dogs Brent".( https://www.vox.com/2018/7/23/17603566/dog-rates-good-dogs-brent-brant-got-a-puppy-meme)
+> The major dataset is downloaded directly from Twitter archive of "Weratedogs" account. It contains close to 2,000 tweets which give dogs in the photo a rating. Note that what is special about this Twitter account is that most of the ratings are higher than 10, the full score. Because "they are goood dogs Brent".(https://www.vox.com/2018/7/23/17603566/dog-rates-good-dogs-brent-brant-got-a-puppy-meme)
 
 
 
